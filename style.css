@@ -1,9 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Indie+Flower&family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@300&family=Kalam:wght@300;400&family=Kanit:wght@300&family=Oswald:wght@300&family=Poppins:wght@300;400&family=Sofia+Sans:wght@300&display=swap');
 
 *{
     margin: 0;
     padding: 0;
-     font-family: 'Caveat';
+     /* font-family: 'Caveat'; */
+     /* font-family: 'Caveat'; */
+    /* font-family: 'Indie Flower'; */
+    /* font-family: 'Lato'; */
+    /* font-family: 'Kalam'; */
+    /* font-family: 'Sofia'; */
+    font-family: 'Kanit';
+    /* font-family: 'Oswald'; */
+    /* font-family: 'Poppins'; */
+    /* font-family: 'Asap'; */
     /* font-family: 'Indie Flower'; */
     /* font-family: 'Lato'; */
     box-sizing: border-box;
